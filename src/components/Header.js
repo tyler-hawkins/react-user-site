@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
     return (
         <div>
-            <h1>The best website in the world some day</h1>
+            <h1>Click some buttons to do some things</h1>
         </div>
     )
 }
